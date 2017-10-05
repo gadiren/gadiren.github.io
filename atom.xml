@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>�ֹ�������Ϣ֮��</title>
+  <title>林狗涵的栖息之地</title>
   
-  <subtitle>������ʲô�Ļ�û��������</subtitle>
+  <subtitle>副标题什么的还没有想好呢</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
@@ -10,7 +10,7 @@
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>�ֹ���</name>
+    <name>林狗涵</name>
     
   </author>
   
