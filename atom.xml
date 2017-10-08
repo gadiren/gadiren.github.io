@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-10-01T04:26:04.720Z</updated>
+  <updated>2017-10-08T17:47:55.628Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,22 +17,88 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://yoursite.com/2017/10/01/hello-world/"/>
-    <id>http://yoursite.com/2017/10/01/hello-world/</id>
-    <published>2017-10-01T04:26:04.720Z</published>
-    <updated>2017-10-01T04:26:04.720Z</updated>
+    <title>禅与摩托车维修艺术段落(1)——修辞学教学</title>
+    <link href="http://yoursite.com/2017/10/09/%E7%A6%85%E4%B8%8E%E6%91%A9%E6%89%98%E8%BD%A6%E7%BB%B4%E4%BF%AE%E8%89%BA%E6%9C%AF%E6%AE%B5%E8%90%BD-1-%E2%80%94%E2%80%94%E4%BF%AE%E8%BE%9E%E5%AD%A6%E6%95%99%E5%AD%A6/"/>
+    <id>http://yoursite.com/2017/10/09/禅与摩托车维修艺术段落-1-——修辞学教学/</id>
+    <published>2017-10-08T17:28:23.000Z</published>
+    <updated>2017-10-08T17:47:55.628Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>&emsp;&emsp;斐德洛准备到这儿来教的是修辞学和写作。而他教过的是一些高级的技术性写作，以及大一英语。<br>&emsp;&emsp;斐德洛当时确实思考得很辛苦，教书的压力已经够沉重了，然而对他更不利的是，以他精确的分析能力，他知道他所要教的题材，毫无疑问的是整个理性教会最无法分析、最不精确的一部分。这就是为什么他会思考得这样辛苦。对一个受过方法和实验训练的人，修辞学简直就是无药可救，其中毫无逻辑可言。<br>&emsp;&emsp;在大一修辞学的课堂上，只需要读一小段论文或是短篇故事，然后讨论作者为了产生某种效果所运用的技巧，然后要学生也运用同样的技巧模仿着写作文和短篇故事，看看他们是否做得到。斐德洛不断试着这样做，但还是无法让学生真正学到什么。写出来的东西和原作往往相去甚远，甚至他们的写作能力变得更糟，因为在这些规则之中，总是充满了各种例外、矛盾、混淆不清以及限定好的状况，以至于他希望一开始就不曾谈过这些规则。<br>&emsp;&emsp;有一个学生总是喜欢问，在某一种特定的情况下如何运用这些规则。斐德洛这时候就必须做选择，是编造一套如何运用的解释，还是坦白地告诉对方他真正的想法。而他真正的想法是，这些规则是作品写好之后才找出来的，作者不是依照这些原则来写作。他最后终于承认，这些学生想要模仿的作家，原先根本就没有所谓的原则，只是把他们认为对的东西写下来，然后再回头看看是否有问题，如果修辞不妥，可以再修正。有一些学生的作品由于事先经过周密的思考，注意是否符合修辞学，因此读起来很乏味，仿佛其中的确有点蜜汁，但却无法汹涌而出。但是你又如何教学生那些无法事先周密策划的东西呢？这似乎是不可能达到要求。于是他就拿起教科书随兴评论，希望学生能够由此得到一些东西，但是情形并不令人满意。</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+        &lt;p&gt;&amp;emsp;&amp;emsp;斐德洛准备到这儿来教的是修辞学和写作。而他教过的是一些高级的技术性写作，以及大一英语。&lt;br&gt;&amp;emsp;&amp;emsp;斐德洛当时确实思考得很辛苦，教书的压力已经够沉重了，然而对他更不利的是，以他精确的分析能力，他知道他所要教的题材，毫无疑问的是整个理
       
     
     </summary>
+    
+      <category term="心灵旅行" scheme="http://yoursite.com/categories/%E5%BF%83%E7%81%B5%E6%97%85%E8%A1%8C/"/>
+    
+    
+      <category term="禅与摩托车维修艺术" scheme="http://yoursite.com/tags/%E7%A6%85%E4%B8%8E%E6%91%A9%E6%89%98%E8%BD%A6%E7%BB%B4%E4%BF%AE%E8%89%BA%E6%9C%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>关于选择</title>
+    <link href="http://yoursite.com/2017/10/08/%E5%85%B3%E4%BA%8E%E9%80%89%E6%8B%A9/"/>
+    <id>http://yoursite.com/2017/10/08/关于选择/</id>
+    <published>2017-10-08T09:55:43.000Z</published>
+    <updated>2017-10-08T10:29:26.608Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="人不应该根据背负的罪孽来选择道路，而应当在选择的道路上背负罪孽"><a href="#人不应该根据背负的罪孽来选择道路，而应当在选择的道路上背负罪孽" class="headerlink" title="人不应该根据背负的罪孽来选择道路，而应当在选择的道路上背负罪孽"></a>人不应该根据背负的罪孽来选择道路，而应当在选择的道路上背负罪孽</h2><p>&emsp;&emsp;我们很难从千愁万绪中捕获到自己最想要的那一缕思绪，所以就任由生活有意无意的推动着。既然无从选择，那么我们就选择遗忘，而遗忘的方式有很多种：有的人选择了旅游，有的人选择了爱情，而有的人则选择了事业。但无论选择了哪一样，终究还是觉得欠缺了什么，还是觉得少了点什么，毕竟依旧还是没有做出选择，依旧活得诚惶诚恐。告诉别人自己活得很好这并不难，但终究还是认为自己觉得过得好才比较心安理得。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;人不应该根据背负的罪孽来选择道路，而应当在选择的道路上背负罪孽&quot;&gt;&lt;a href=&quot;#人不应该根据背负的罪孽来选择道路，而应当在选择的道路上背负罪孽&quot; class=&quot;headerlink&quot; title=&quot;人不应该根据背负的罪孽来选择道路，而应当在选择的道路上背负罪
+      
+    
+    </summary>
+    
+      <category term="碎碎念" scheme="http://yoursite.com/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>hello world</title>
+    <link href="http://yoursite.com/2017/10/05/hello-world-1/"/>
+    <id>http://yoursite.com/2017/10/05/hello-world-1/</id>
+    <published>2017-10-05T03:50:59.000Z</published>
+    <updated>2017-10-06T08:46:43.532Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2017/10/01/hello-world/"/>
+    <id>http://yoursite.com/2017/10/01/hello-world/</id>
+    <published>2017-10-01T04:26:04.720Z</published>
+    <updated>2017-10-05T13:10:12.362Z</updated>
+    
+    <content type="html"><![CDATA[<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=27598858&auto=0&height=66"></iframe><p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=&quot;330&quot; height=&quot;86&quot; src=&quot;//music.163.com/outchain/player?type=2&amp;id=
+      
+    
+    </summary>
+    
+      <category term="工作" scheme="http://yoursite.com/categories/%E5%B7%A5%E4%BD%9C/"/>
     
     
   </entry>
