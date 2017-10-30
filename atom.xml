@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-10-30T15:49:42.831Z</updated>
+  <updated>2017-10-30T16:01:46.161Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,16 +21,16 @@
     <link href="http://yoursite.com/2017/10/30/%E6%B7%BB%E5%8A%A0%E5%9B%BE%E7%89%87%E5%8A%9F%E8%83%BD/"/>
     <id>http://yoursite.com/2017/10/30/添加图片功能/</id>
     <published>2017-10-30T15:47:13.000Z</published>
-    <updated>2017-10-30T15:49:42.831Z</updated>
+    <updated>2017-10-30T16:01:46.161Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="http://oyn7uhuvk.bkt.clouddn.com/Hydrangeas.jpg" alt="测试图片"></p>]]></content>
+    <content type="html"><![CDATA[<p><img src="http://oyn7uhuvk.bkt.clouddn.com/Hydrangeas.jpg" alt="测试图片"></p><p>###图片功能<br>&emsp;&emsp;将七牛云作为图床，保存图片，提供外链。功能比较简单，直接注册使用即可。其他功能暂时没做研究</p><p>图床：储存图片的服务器。专门用来存放图片，同时允许你把图片对外连接的网上空间。</p>]]></content>
     
     <summary type="html">
     
       
       
         &lt;p&gt;&lt;img src=&quot;http://oyn7uhuvk.bkt.clouddn.com/Hydrangeas.jpg&quot; alt=&quot;测试图片&quot;&gt;&lt;/p&gt;
-
+&lt;p&gt;###图片功能&lt;br&gt;&amp;emsp;&amp;emsp;将七牛云作为图床，保存图片，提供外链。功能比较简单，直接注册使用即可。其
       
     
     </summary>
@@ -116,29 +116,6 @@
   </entry>
   
   <entry>
-    <title>关于选择</title>
-    <link href="http://yoursite.com/2017/10/08/Markdown%E6%97%A5%E5%BF%971/"/>
-    <id>http://yoursite.com/2017/10/08/Markdown日志1/</id>
-    <published>2017-10-08T09:55:43.000Z</published>
-    <updated>2017-10-19T18:21:53.137Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="人不应该根据背负的罪孽来选择道路，而应当在选择的道路上背负罪孽"><a href="#人不应该根据背负的罪孽来选择道路，而应当在选择的道路上背负罪孽" class="headerlink" title="人不应该根据背负的罪孽来选择道路，而应当在选择的道路上背负罪孽"></a>人不应该根据背负的罪孽来选择道路，而应当在选择的道路上背负罪孽</h2><h2 id="私たちは背负った罪によって道を选ぶのではなく、は选んだ道自分の罪を背负う"><a href="#私たちは背负った罪によって道を选ぶのではなく、は选んだ道自分の罪を背负う" class="headerlink" title="私たちは背负った罪によって道を选ぶのではなく、は选んだ道自分の罪を背负う"></a>私たちは背负った罪によって道を选ぶのではなく、は选んだ道自分の罪を背负う</h2><h2 id="我々は背負った罪によって道を選ぶではなく、選んだ道で罪を背負うべきだからだ"><a href="#我々は背負った罪によって道を選ぶではなく、選んだ道で罪を背負うべきだからだ" class="headerlink" title="我々は背負った罪によって道を選ぶではなく、選んだ道で罪を背負うべきだからだ"></a>我々は背負った罪によって道を選ぶではなく、選んだ道で罪を背負うべきだからだ</h2><p>&emsp;&emsp;我们很难从千愁万绪中捕获到自己最想要的那一缕思绪，所以就任由生活有意无意的推动着。既然无从选择，那么我们就选择遗忘，而遗忘的方式有很多种：有的人选择了旅游，有的人选择了爱情，而有的人则选择了事业。但无论选择了哪一样，终究还是觉得欠缺了什么，还是觉得少了点什么，毕竟依旧还是没有做出选择，依旧活得诚惶诚恐。告诉别人自己活得很好这并不难，但终究还是认为自己觉得过得好才比较心安理得。</p><p>#原来一开始就是错的，不是你去选择拥有什么，而是你拥有了才有得选择。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h2 id=&quot;人不应该根据背负的罪孽来选择道路，而应当在选择的道路上背负罪孽&quot;&gt;&lt;a href=&quot;#人不应该根据背负的罪孽来选择道路，而应当在选择的道路上背负罪孽&quot; class=&quot;headerlink&quot; title=&quot;人不应该根据背负的罪孽来选择道路，而应当在选择的道路上背负罪
-      
-    
-    </summary>
-    
-      <category term="碎碎念" scheme="http://yoursite.com/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
-    
-    
-  </entry>
-  
-  <entry>
     <title>空境语录</title>
     <link href="http://yoursite.com/2017/10/08/%E7%A9%BA%E5%A2%83%E8%AF%AD%E5%BD%95/"/>
     <id>http://yoursite.com/2017/10/08/空境语录/</id>
@@ -157,6 +134,29 @@
     </summary>
     
       <category term="心灵旅行" scheme="http://yoursite.com/categories/%E5%BF%83%E7%81%B5%E6%97%85%E8%A1%8C/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>关于选择</title>
+    <link href="http://yoursite.com/2017/10/08/Markdown%E6%97%A5%E5%BF%971/"/>
+    <id>http://yoursite.com/2017/10/08/Markdown日志1/</id>
+    <published>2017-10-08T09:55:43.000Z</published>
+    <updated>2017-10-19T18:21:53.137Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="人不应该根据背负的罪孽来选择道路，而应当在选择的道路上背负罪孽"><a href="#人不应该根据背负的罪孽来选择道路，而应当在选择的道路上背负罪孽" class="headerlink" title="人不应该根据背负的罪孽来选择道路，而应当在选择的道路上背负罪孽"></a>人不应该根据背负的罪孽来选择道路，而应当在选择的道路上背负罪孽</h2><h2 id="私たちは背负った罪によって道を选ぶのではなく、は选んだ道自分の罪を背负う"><a href="#私たちは背负った罪によって道を选ぶのではなく、は选んだ道自分の罪を背负う" class="headerlink" title="私たちは背负った罪によって道を选ぶのではなく、は选んだ道自分の罪を背负う"></a>私たちは背负った罪によって道を选ぶのではなく、は选んだ道自分の罪を背负う</h2><h2 id="我々は背負った罪によって道を選ぶではなく、選んだ道で罪を背負うべきだからだ"><a href="#我々は背負った罪によって道を選ぶではなく、選んだ道で罪を背負うべきだからだ" class="headerlink" title="我々は背負った罪によって道を選ぶではなく、選んだ道で罪を背負うべきだからだ"></a>我々は背負った罪によって道を選ぶではなく、選んだ道で罪を背負うべきだからだ</h2><p>&emsp;&emsp;我们很难从千愁万绪中捕获到自己最想要的那一缕思绪，所以就任由生活有意无意的推动着。既然无从选择，那么我们就选择遗忘，而遗忘的方式有很多种：有的人选择了旅游，有的人选择了爱情，而有的人则选择了事业。但无论选择了哪一样，终究还是觉得欠缺了什么，还是觉得少了点什么，毕竟依旧还是没有做出选择，依旧活得诚惶诚恐。告诉别人自己活得很好这并不难，但终究还是认为自己觉得过得好才比较心安理得。</p><p>#原来一开始就是错的，不是你去选择拥有什么，而是你拥有了才有得选择。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;人不应该根据背负的罪孽来选择道路，而应当在选择的道路上背负罪孽&quot;&gt;&lt;a href=&quot;#人不应该根据背负的罪孽来选择道路，而应当在选择的道路上背负罪孽&quot; class=&quot;headerlink&quot; title=&quot;人不应该根据背负的罪孽来选择道路，而应当在选择的道路上背负罪
+      
+    
+    </summary>
+    
+      <category term="碎碎念" scheme="http://yoursite.com/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
     
     
   </entry>
